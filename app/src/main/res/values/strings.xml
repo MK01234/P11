@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P11</string>
+    <string name="demo">Demo 1 - Simple dialog</string>
+    <string name="demo2">demo 2 button dialog</string>
+    <string name="enter">Enter Some Text</string>
+    <string name="demo3">Demo 3 text input dialog</string>
+    <string name="demo4">Exercise 3</string>
+    <string name="num1">Enter Number 1:</string>
+    <string name="Num2">Enter Number 2:</string>
+    <string name="demo5">Demo 4 datepicker dialog</string>
+    <string name="demo6">Demo 5 timepicker dialog</string>
+</resources>
